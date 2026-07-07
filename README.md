@@ -1,7 +1,7 @@
 # GitHub Basics Practice
 
 ## Name
-Muhammad Hassan Naveed
+Muhammad Hassam Naveed 
 
 ## What I Learned Today
 
